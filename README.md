@@ -1,2 +1,4 @@
 # rat
-rat - fast, parallel equivalent of 'cat' command implemented in Rust!
+
+**This is a joke** - about all of the new parallel rust commands.
+There is no new parallel 'cat' command. There shouldn't be.
